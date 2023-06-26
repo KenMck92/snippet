@@ -4,7 +4,6 @@
   margin: 0;
 }
 
-.card
-{
+.card {
 background: linear-gradient(90deg, hsla(276, 91%, 79%, 1) 0%, hsla(254, 74%, 65%, 1) 100%);
 }
